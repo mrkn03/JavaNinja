@@ -1,4 +1,4 @@
-# JavaNinja 🥷☕️
+# JavaNinja ☕️
 
 Bem-vindo ao **JavaNinja**! 🚀 Este repositório é dedicado aos meus estudos em **Java**, onde registro meu progresso e compartilho conhecimento para me tornar um verdadeiro mestre ninja na linguagem. 
 
@@ -34,5 +34,3 @@ Embora este seja um espaço para meus estudos, contribuições são sempre bem-v
 Este projeto está licenciado sob a [MIT License](LICENSE).  
 
 ---
-
-💻 *"Continue aprendendo e aperfeiçoando suas habilidades, um código por vez."*  
